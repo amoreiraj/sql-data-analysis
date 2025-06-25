@@ -1,6 +1,6 @@
 # 🧪 SQL-Based Exploratory Data Analysis (EDA)
 
-This project demonstrates how to conduct an end-to-end Exploratory Data Analysis (EDA) using only SQL. The goal is to simulate a real-world scenario where we analyse raw relational data for trends, anomalies, and actionable insights — all using SQL queries.
+This project demonstrates how to conduct an end-to-end Exploratory Data Analysis (EDA) using only SQL. The goal is to simulate a real-world scenario where we analyse raw relational data for trends, anomalies, and actionable insights, all using SQL queries.
 
 ## 🔍 Dataset
 > 
