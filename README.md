@@ -7,7 +7,7 @@ This project demonstrates how to conduct an end-to-end Exploratory Data Analysis
 
 ## 📂 Folder Structure
 - `sql/`: Modular SQL scripts for each EDA step
-- `outputs/`: Optional — exported tables or visualisations
+- `outputs/`: Visualisations
 - `er_diagram.png`: Entity Relationship Diagram
 
 ## 📊 Analysis Steps
